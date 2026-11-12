@@ -1,6 +1,6 @@
 # GW150914 Gravitational Wave Signal Processing
 
-A Python signal processing and data analysis pipeline to extract, filter, and visualize the first directly detected gravitational wave signal (**GW150914**) from raw LIGO interferometer strain data.
+A Python signal processing and data analysis pipeline to extract, filter, and visualize the first directly detected gravitational wave signal (**GW150914**) from raw LIGO interferometer strain data. This was a project in the module Signal Processing at University of Oldenburg.
 
 ## Overview
 
